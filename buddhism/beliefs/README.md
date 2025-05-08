@@ -2,6 +2,8 @@
 
 Buddhism is founded on a comprehensive philosophical and ethical system that addresses the nature of existence, suffering, and liberation. Unlike many religions, it does not center on worship of a supreme deity but focuses on personal transformation through understanding the nature of mind and reality.
 
+![Buddhist teachings illustrated in a mandala](buddhist_concepts_mandala.jpg)
+
 ## Core Teachings
 
 - [The Four Noble Truths](./four_noble_truths.md) - Buddhism's foundational teachings on suffering and liberation

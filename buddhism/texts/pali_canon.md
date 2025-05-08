@@ -2,6 +2,8 @@
 
 The Pali Canon, also known as the Tipitaka (Sanskrit: Tripitaka) meaning "Three Baskets," represents the most complete surviving early Buddhist canon and serves as the doctrinal foundation of Theravada Buddhism. Preserved in the Pali language, these texts are considered by Theravada Buddhists to contain the actual words of the Buddha and his immediate disciples.
 
+![Pali Canon text in traditional script](pali_canon_manuscript.jpg)
+
 ## Historical Development
 
 ### Oral Transmission

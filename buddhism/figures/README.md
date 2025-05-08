@@ -2,6 +2,8 @@
 
 Buddhism features a rich array of important historical and spiritual figures who have shaped the development and spread of the religion throughout its history. These range from the Buddha himself to influential teachers, enlightened beings, and cultural icons who have contributed to Buddhist traditions across Asia and beyond.
 
+![Historical and spiritual Buddhist masters](buddhist_lineage_masters.jpg)
+
 ## The Buddha and His Immediate Circle
 
 - [Siddhartha Gautama (The Buddha)](./buddha.md) - Founder of Buddhism, the Awakened One

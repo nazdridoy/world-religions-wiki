@@ -2,6 +2,8 @@
 
 Buddhism is not merely a philosophical system but a comprehensive path of practice designed to transform the mind and alleviate suffering. Buddhist practices range from formal meditation techniques to daily ethical conduct, from monastic disciplines to devotional rituals. These practices embody the Buddha's teachings in action, providing concrete methods for cultivating wisdom, compassion, and mindfulness.
 
+![Buddhist monk practicing walking meditation](buddhist_walking_meditation.jpg)
+
 ## Meditation Practices
 
 Meditation forms the core of Buddhist spiritual practice across all traditions:

@@ -2,6 +2,8 @@
 
 Siddhartha Gautama, who later became known as the Buddha ("the Enlightened One"), was the founder of Buddhism. His life story combines historical accounts with legendary elements that developed over centuries of Buddhist tradition.
 
+![Prince Siddhartha leaving the palace](siddhartha_renunciation.jpg)
+
 ## Early Life
 
 Siddhartha Gautama was born around 563 BCE in Lumbini (in present-day Nepal) to a royal family of the Shakya clan. His father, King Suddhodana, ruled over a small kingdom within the Kosala territory. At his birth, it is said that a sage named Asita prophesied that the young prince would either become a great king or a spiritual leader.

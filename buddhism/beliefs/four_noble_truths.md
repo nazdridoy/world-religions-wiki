@@ -2,6 +2,8 @@
 
 The Four Noble Truths constitute the essence of the Buddha's teachings and form the foundation of Buddhist philosophy. They were first taught by the Buddha in his initial sermon at Deer Park in Sarnath after attaining enlightenment. Like a physician diagnosing and treating a disease, the Buddha identified the problem of suffering, its cause, the possibility of its cessation, and the way to achieve that cessation.
 
+![Buddha teaching the Four Noble Truths at Sarnath](four_noble_truths_teaching.jpg)
+
 ## Historical Context
 
 The Buddha presented the Four Noble Truths in his first sermon, the Dhammacakkappavattana Sutta ("Setting in Motion the Wheel of Dharma"). This teaching took place to the five ascetics who had previously been his companions during his years of ascetic practice. The Four Noble Truths represent a systematic approach to understanding existence and relieving suffering that was revolutionary in ancient India.

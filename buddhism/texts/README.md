@@ -2,6 +2,8 @@
 
 Buddhist sacred texts represent one of the most extensive collections of religious writings in the world. From the earliest oral traditions to later written works, these texts form the foundation of Buddhist thought across all major traditions.
 
+![Ancient Buddhist manuscripts on palm leaves](buddhist_palm_leaf_manuscripts.jpg)
+
 ## Overview of Buddhist Canons
 
 Unlike religions with a single authoritative scripture, Buddhism has developed multiple canons of texts across different traditions. These canons include:

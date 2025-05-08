@@ -2,6 +2,8 @@
 
 Meditation (bhāvanā in Pali, dhyāna in Sanskrit) forms the heart of Buddhist practice and is considered essential for developing wisdom and liberation from suffering. While methods vary across Buddhist traditions, the underlying goal remains consistent: to transform the mind through direct experience rather than mere intellectual understanding.
 
+![Buddhist meditation postures and techniques](meditation_instruction_diagram.jpg)
+
 ## Historical Development
 
 ### Early Buddhist Meditation

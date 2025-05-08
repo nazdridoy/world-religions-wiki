@@ -2,6 +2,8 @@
 
 Buddhism has evolved into numerous distinct traditions as it spread from India to different regions of Asia and eventually around the world. While all Buddhist schools share foundational principles like the Four Noble Truths, they differ in their interpretations, practices, and cultural expressions.
 
+![Buddhist temples representing different traditions](buddhist_temples_comparison.jpg)
+
 ## Major Buddhist Traditions
 
 Buddhism is commonly divided into three major traditions, often called "vehicles" (yanas), each with its own sub-schools:

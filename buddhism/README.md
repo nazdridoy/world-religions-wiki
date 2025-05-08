@@ -2,6 +2,8 @@
 
 Buddhism is one of the world's major religions, founded by Siddhartha Gautama (the Buddha) in northeastern India during the 5th century BCE. Unlike many other religions, Buddhism does not focus on the relationship between humanity and God. Instead, it is centered on personal spiritual development and the attainment of deep insight into the true nature of life.
 
+![Buddha meditating under the Bodhi tree](buddha_enlightenment.jpg)
+
 ## Origins and Development
 
 Buddhism originated in ancient India when Siddhartha Gautama, a prince from the Shakya clan in what is now Nepal, achieved enlightenment after years of spiritual seeking. The religion spread throughout Asia over the subsequent centuries, developing distinct traditions as it adapted to different cultural contexts.

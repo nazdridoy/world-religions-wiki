@@ -2,6 +2,8 @@
 
 Buddhism emerged in northeastern India around the 5th century BCE, founded by Siddhartha Gautama (later known as the Buddha). From these origins, it spread throughout Asia, evolving into diverse traditions and becoming one of the world's major religions.
 
+![Ancient Buddhist stupa at Sanchi](ancient_buddhist_stupa.jpg)
+
 ## Origins in India
 
 - [Early Life of Siddhartha Gautama](./siddhartha_gautama.md)
