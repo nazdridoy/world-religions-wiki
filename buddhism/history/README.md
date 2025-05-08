@@ -51,7 +51,3 @@ The spread of Buddhism also facilitated cultural exchange throughout Asia, leadi
 - [Early Buddhist Texts](../texts/early_texts.md)
 - [Development of Mahayana](../denominations/mahayana.md)
 - [Influence on Asian Cultures](./cultural_influence.md)
-
----
-
-*This section is part of the World Religions Explained study notes.* 

@@ -145,7 +145,3 @@ Comparative studies of these various canons help scholars identify the earliest 
 - [Early Buddhist Texts](./early_texts.md)
 - [Buddhist Councils](../history/buddhist_councils.md)
 - [Oral Tradition in Buddhism](./oral_tradition.md)
-
----
-
-*This section is part of the World Religions Explained study notes.* 

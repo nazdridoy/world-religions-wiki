@@ -112,7 +112,3 @@ This systematic approach distinguishes Buddhism as both a philosophical system a
 - [Three Marks of Existence](./three_marks_of_existence.md)
 - [Nirvana](./nirvana.md)
 - [Buddha's First Sermon](../texts/first_sermon.md)
-
----
-
-*This section is part of the World Religions Explained study notes.* 

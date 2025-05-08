@@ -75,7 +75,3 @@ Mahayana Buddhism produced a vast collection of additional texts, claiming to be
 - [Buddhist Languages](./buddhist_languages.md) - Pali, Sanskrit, Chinese, Tibetan, and others
 - [Meditation Instructions in Texts](../practices/meditation.md) - How texts guide meditative practice
 - [Scriptural Authority](./scriptural_authority.md) - Role of texts in different Buddhist traditions
-
----
-
-*This section is part of the World Religions Explained study notes.* 

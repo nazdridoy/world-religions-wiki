@@ -40,7 +40,3 @@ Explore Buddhism in depth through these sections:
 - [Hinduism](../hinduism/README.md) - Explore the historical connections between Buddhism and Hinduism
 - [Jainism](../other_religions/jainism.md) - Another religion that emerged from the Shramana movement
 - [Chinese Religions](../chinese_religions/README.md) - See how Buddhism influenced and was influenced by Chinese religious traditions
-
----
-
-*This section is part of the World Religions Explained study notes.*

@@ -89,7 +89,3 @@ The Buddha's life story serves as both a historical account and a spiritual para
 - [The Eightfold Path](../beliefs/eightfold_path.md)
 - [Early Buddhist Councils](./buddhist_councils.md)
 - [Buddhist Texts About the Buddha](../texts/buddha_biographies.md)
-
----
-
-*This section is part of the World Religions Explained study notes.* 

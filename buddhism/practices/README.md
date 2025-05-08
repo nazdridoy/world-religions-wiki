@@ -87,7 +87,3 @@ The various Buddhist practices are designed to work together as an integrated sy
 - [Gradual Training](./gradual_training.md) - Progressive stages of Buddhist practice
 - [Ethics, Meditation, and Wisdom](./three_trainings.md) - How the three trainings work together
 - [Integrating Practice into Daily Life](./daily_practice.md) - Making Buddhism a lived reality
-
----
-
-*This section is part of the World Religions Explained study notes.* 

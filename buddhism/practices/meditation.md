@@ -212,7 +212,3 @@ Across Buddhist traditions, meditation is usually:
 - [Monastic Practice](./monastic_routines.md)
 - [Buddhist Psychology](./buddhist_psychology.md)
 - [Jhana States](./jhanas.md)
-
----
-
-*This section is part of the World Religions Explained study notes.* 

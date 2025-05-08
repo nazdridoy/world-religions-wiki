@@ -56,7 +56,3 @@ Buddhism has developed numerous philosophical schools that interpret core teachi
 - [Buddhist Meditation Practices](../practices/meditation.md)
 - [Buddhist Texts and Scriptures](../texts/README.md)
 - [The Buddha's Life and Teachings](../figures/buddha.md)
-
----
-
-*This section is part of the World Religions Explained study notes.* 

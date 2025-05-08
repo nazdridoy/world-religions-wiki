@@ -95,7 +95,3 @@ Particularly important in Mahayana and Vajrayana traditions, bodhisattvas are en
 - [Buddhist Leadership Roles](./leadership_roles.md) - Different positions of authority
 - [Teacher-Student Relationship](../practices/teacher_student.md) - The importance of lineage and guidance
 - [Devotional Practices](../practices/devotion.md) - How figures are venerated
-
----
-
-*This section is part of the World Religions Explained study notes.* 

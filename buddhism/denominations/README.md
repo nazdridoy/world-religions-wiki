@@ -101,7 +101,3 @@ The development of Buddhist denominations occurred through:
 - [Theravada-Mahayana Relations](./theravada_mahayana_relations.md)
 - [East Asian-Tibetan Connections](./east_asian_tibetan_connections.md)
 - [Modern Buddhist Councils](./modern_buddhist_councils.md)
-
----
-
-*This section is part of the World Religions Explained study notes.* 
