@@ -37,6 +37,7 @@ Particularly important in Mahayana and Vajrayana traditions, bodhisattvas are en
 - [Padmasambhava](./padmasambhava.md) - Founder of Tibetan Buddhism
 - [Shantideva](./shantideva.md) - Author of the Bodhicaryavatara
 - [Naropa](./naropa.md) - Indian master of tantric Buddhism
+- [Tilopa](./tilopa.md) - Mahasiddha and source of the Kagyu lineage
 
 ### Chinese Masters
 
