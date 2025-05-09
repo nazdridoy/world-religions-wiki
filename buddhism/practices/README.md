@@ -43,6 +43,7 @@ Though Buddhism emphasizes internal transformation, various ritualistic practice
 
 While early Buddhism emphasized personal practice over devotion, devotional elements have become important in many traditions:
 
+- [Devotional Practices Overview](./devotion.md) - The role and forms of devotion in Buddhism
 - [Buddha Veneration](./buddha_veneration.md) - Devotional practices directed toward the Buddha
 - [Bodhisattva Devotion](./bodhisattva_devotion.md) - Especially in Mahayana traditions
 - [Pure Land Practices](./pure_land_practices.md) - Nembutsu recitation and Amitabha devotion
@@ -86,6 +87,7 @@ Different Buddhist traditions emphasize different practices:
 The various Buddhist practices are designed to work together as an integrated system:
 
 - [The Noble Eightfold Path](../beliefs/eightfold_path.md) - The Buddha's comprehensive framework for practice
+- [Teacher-Student Relationship](./teacher_student.md) - The role of guidance and transmission in practice
 - [Gradual Training](./gradual_training.md) - Progressive stages of Buddhist practice
 - [Ethics, Meditation, and Wisdom](./three_trainings.md) - How the three trainings work together
 - [Integrating Practice into Daily Life](./daily_practice.md) - Making Buddhism a lived reality
