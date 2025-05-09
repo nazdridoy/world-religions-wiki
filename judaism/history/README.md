@@ -1,5 +1,7 @@
 # History of Judaism
 
+![Ancient Jewish temple ruins](temple_ruins.jpg)
+
 This section explores the historical development of Judaism through various periods, examining the evolution of Jewish religious thought, practice, community organization, and responses to shifting social and political contexts.
 
 ## Biblical Period
@@ -105,7 +107,5 @@ This section explores the historical development of Judaism through various peri
 - [Jewish Migration](./migration.md) - Population movements
 - [Messianic Movements](./messianic_movements.md) - Redemptive aspirations
 - [Secularization](./secularization.md) - Modernity and religious decline
-
-![Ancient Jewish temple ruins](temple_ruins.jpg)
 
 ## Back to [Judaism Main Page](../README.md) 

@@ -1,5 +1,7 @@
 # Jewish Denominations and Movements
 
+![Diverse Jewish prayer styles](diverse_prayer.jpg)
+
 This section explores the diverse branches, movements, and schools of thought within Judaism, examining their historical development, theological positions, practices, and contemporary expressions.
 
 ## Orthodox Judaism
@@ -113,7 +115,5 @@ This section explores the diverse branches, movements, and schools of thought wi
 - [Denominational Demographics](./demographics.md) - Population distributions
 - [Jewish Unity Efforts](./unity_efforts.md) - Bridges between movements
 - [Interdenominational Conflicts](./denominational_conflicts.md) - Areas of tension
-
-![Diverse Jewish prayer styles](diverse_prayer.jpg)
 
 ## Back to [Judaism Main Page](../README.md) 

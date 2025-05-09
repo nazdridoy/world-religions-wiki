@@ -1,5 +1,7 @@
 # Jewish Sacred and Traditional Texts
 
+![Ancient Torah scroll](ancient_torah_scroll.jpg)
+
 This section explores the sacred writings, commentaries, legal codes, and other textual traditions that form the foundation of Jewish thought and practice.
 
 ## Torah / Chumash (Pentateuch)
@@ -109,7 +111,5 @@ This section explores the sacred writings, commentaries, legal codes, and other 
 - [Scribal Traditions](./scribal_traditions.md) - Transmission of sacred texts
 - [Translations](./translations.md) - Major Jewish text translations
 - [Digital Resources](./digital_resources.md) - Online text collections
-
-![Ancient Torah scroll](ancient_torah_scroll.jpg)
 
 ## Back to [Judaism Main Page](../README.md) 

@@ -1,5 +1,7 @@
 # Jewish Religious Practices
 
+![Jewish prayer service](jewish_prayer_service.jpg)
+
 This section explores the rituals, observances, customs, and practices that form the foundation of lived Jewish experience across different communities, denominations, and historical periods.
 
 ## Prayer and Worship
@@ -118,7 +120,5 @@ This section explores the rituals, observances, customs, and practices that form
 - [Modern Innovations](./modern_innovations.md) - Contemporary ritual developments
 - [Messianic Expectation](./messianic_practices.md) - Practices related to messianic hopes
 - [Folk Practices](./folk_practices.md) - Popular customs and superstitions
-
-![Jewish prayer service](jewish_prayer_service.jpg)
 
 ## Back to [Judaism Main Page](../README.md) 

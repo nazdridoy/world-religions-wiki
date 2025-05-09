@@ -1,5 +1,7 @@
 # Key Figures in Judaism
 
+![Portrait of Moses](portrait_of_moses.jpg)
+
 This section explores the significant individuals who have shaped Jewish history, thought, religious development, and cultural identity throughout the ages.
 
 ## Biblical Patriarchs and Matriarchs
@@ -140,7 +142,5 @@ This section explores the significant individuals who have shaped Jewish history
 - [Conservative Movement Leaders](./conservative_leaders.md) - Conservative leaders
 - [Orthodox Movement Leaders](./orthodox_leaders.md) - Orthodox authorities
 - [Contemporary Female Rabbis](./female_rabbis.md) - Women in the rabbinate
-
-![Portrait of Moses](portrait_of_moses.jpg)
 
 ## Back to [Judaism Main Page](../README.md) 

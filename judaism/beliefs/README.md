@@ -1,5 +1,7 @@
 # Jewish Beliefs and Theology
 
+![Jewish symbols representing beliefs](jewish_beliefs.jpg)
+
 This section explores the fundamental theological concepts, philosophical ideas, ethical principles, and spiritual understandings that form the foundation of Jewish religious thought.
 
 ## Concepts of God
@@ -112,7 +114,5 @@ This section explores the fundamental theological concepts, philosophical ideas,
 - [Existential Judaism](./existential_judaism.md) - 20th-century approaches
 - [Post-Holocaust Theology](./post_holocaust.md) - Responses to the Shoah
 - [Feminist Theology](./feminist_theology.md) - Gender-focused thought
-
-![Jewish symbols representing beliefs](jewish_beliefs.jpg)
 
 ## Back to [Judaism Main Page](../README.md) 
