@@ -7,6 +7,7 @@ This section explores the sacred writings, commentaries, legal codes, and other 
 ## Torah / Chumash (Pentateuch)
 
 - [Torah Overview](./torah_overview.md) - Introduction to the Five Books of Moses
+- [Torah](./torah.md) - Comprehensive guide to the Five Books of Moses
 - [Genesis/Bereishit](./genesis.md) - Creation to the Patriarchs
 - [Exodus/Shemot](./exodus.md) - Slavery, liberation, and Sinai
 - [Leviticus/Vayikra](./leviticus.md) - Priestly laws and holiness
@@ -14,7 +15,7 @@ This section explores the sacred writings, commentaries, legal codes, and other 
 - [Deuteronomy/Devarim](./deuteronomy.md) - Moses' final speeches
 - [Torah Scroll](./torah_scroll.md) - Physical creation and usage
 - [Torah Study](./torah_study.md) - Approaches to engagement
-- [Torah Cantillation](./cantillation.md) - Musical notation for reading
+- [Cantillation](./cantillation.md) - Musical notation for reading
 
 ## Tanakh (Hebrew Bible)
 
@@ -32,6 +33,7 @@ This section explores the sacred writings, commentaries, legal codes, and other 
 
 ## Oral Torah and Rabbinic Literature
 
+- [Talmud](./talmud.md) - Comprehensive guide to the Oral Law
 - [Mishnah](./mishnah.md) - First major work of Rabbinic Judaism
 - [Gemara](./gemara.md) - Rabbinic commentary on the Mishnah
 - [Talmud Bavli](./talmud_bavli.md) - Babylonian Talmud
