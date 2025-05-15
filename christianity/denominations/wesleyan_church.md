@@ -160,4 +160,4 @@ The Wesleyan Church employs a representative form of government with connectiona
 - [Global Methodist](global_methodist.md) - Recently formed traditional Methodist denomination
 - [Holiness Movement](holiness_movement.md) - Broader religious movement from which Wesleyans emerged
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)

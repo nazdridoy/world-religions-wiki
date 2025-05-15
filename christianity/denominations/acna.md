@@ -110,4 +110,4 @@ ACNA incorporates three major traditions within Anglicanism:
 - [Anglican Nigeria](anglican_nigeria.md) - Key Global South Anglican province in relationship with ACNA
 - [Global South Anglican](global_south_anglican.md) - Alliance of conservative Anglican provinces
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)

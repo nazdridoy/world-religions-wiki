@@ -160,4 +160,4 @@ The Free Methodist Church employs a modified episcopal system:
 - [Global Methodist](global_methodist.md) - Recently formed traditional Methodist denomination
 - [Holiness Movement](holiness_movement.md) - The broader religious movement influencing Free Methodism
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)

@@ -111,4 +111,4 @@ The Church of Nigeria actively engages with numerous social issues:
 - [Continuing Anglican](continuing_anglican.md) - Other expressions of traditional Anglicanism
 - [Anglican Canada](anglican_canada.md) - A progressive Anglican body with which Nigeria has theological disputes
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)

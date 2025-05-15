@@ -58,4 +58,4 @@ The GMC has faced several challenges in its formation and early existence:
 - [Denominational Formation](denominational_formation.md) - Patterns in how new Christian bodies emerge
 - [Anglican Nigeria](anglican_nigeria.md) - Another conservative denomination that aligned with traditionalist Methodists
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)

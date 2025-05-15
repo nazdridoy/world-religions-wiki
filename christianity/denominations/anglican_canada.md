@@ -128,4 +128,4 @@ The ACC has undertaken significant initiatives regarding Indigenous peoples:
 - [Anglican Nigeria](anglican_nigeria.md) - A Global South province with different theological positions
 - [Global South Anglican](global_south_anglican.md) - Network of conservative Anglican provinces
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)

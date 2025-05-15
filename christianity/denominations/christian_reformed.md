@@ -172,4 +172,4 @@ The CRCNA operates under a Presbyterian form of governance with three levels:
 - [Neo-Calvinism](neo_calvinism.md) - Intellectual tradition influencing CRCNA thought
 - [Reformed Worldview](reformed_worldview.md) - Philosophical approach to cultural engagement
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)

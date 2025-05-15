@@ -147,4 +147,4 @@ The Continuing Anglican Movement refers to a group of churches that separated fr
 - [Anglo-Catholicism](anglo_catholicism.md) - High church movement within Anglicanism
 - [Affirmation of St. Louis](affirmation_st_louis.md) - Founding document of continuing Anglicanism
 
-## Back to [Denominations](./README.md) | [Christianity](../README.md)
+## Back to [Denominations](./README.md)
