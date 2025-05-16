@@ -58,6 +58,7 @@ This section explores the diverse religious practices, rituals, observances, and
 - [Meditation](./christian_meditation.md) - Scriptural reflection
 - [Silence](./silence.md) - Contemplative practice
 - [Journaling](./spiritual_journaling.md) - Recording spiritual experiences
+- [Pilgrimage](./pilgrimage.md) - Sacred journey to holy sites
 
 ## Community Practices
 
