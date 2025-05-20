@@ -12,6 +12,14 @@ This section explores the core theological concepts and doctrines that form the 
 - [Day of Judgment](./day_of_judgment.md) - Belief in accountability and the afterlife
 - [Divine Decree](./qadar.md) - God's knowledge and will in relation to human actions
 
+## Belief Classifications
+
+- [Muslim](./muslim.md) - One who submits to Allah's will and follows Islam
+- [Mumin](./mumin.md) - A true believer with deep faith and conviction
+- [Kafir](./kafir.md) - The concept of disbelief and rejection of Islamic tenets
+- [Mushrik](./mushrik.md) - One who commits shirk (polytheism/associating partners with God)
+- [Munafiq](./munafiq.md) - Hypocrites who outwardly profess Islam while inwardly disbelieving
+
 ## Concept of God (Allah)
 
 - [Names of Allah](./names_of_allah.md) - The 99 beautiful names and divine attributes
