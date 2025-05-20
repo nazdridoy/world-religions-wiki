@@ -1,6 +1,6 @@
 # Islamic Beliefs
 
-This section explores the core theological concepts and doctrines that form the foundation of Islamic faith. Islamic beliefs are derived primarily from the Quran and the teachings of Prophet Muhammad, and while there are variations across different traditions, several fundamental beliefs unite Muslims worldwide.
+This section explores the core theological concepts and doctrines that form the foundation of Islamic faith. Islamic beliefs are derived primarily from the Quran and the teachings of Prophet Muhammad (SM), and while there are variations across different traditions, several fundamental beliefs unite Muslims worldwide.
 
 ## Core Articles of Faith
 
@@ -30,12 +30,13 @@ This section explores the core theological concepts and doctrines that form the 
 
 ## Prophethood and Messengers
 
-- [Prophets in Islam](./prophets.md) - The chain of prophets from Adam to Muhammad
-- [Muhammad's Role](./muhammad_prophethood.md) - The special status of the final messenger
+- [Prophets in Islam](./prophets.md) - The chain of prophets from Adam to Muhammad (SM)
+- [Muhammad (SM)'s Role](./muhammad_prophethood.md) - The special status of the final messenger
+- [Shaq-e-Sadr](./shaq_e_sadr.md) - The miraculous opening of Muhammad (SM)'s chest
 - [Ibrahim (Abraham)](./ibrahim.md) - Father of monotheism and builder of the Kaaba
 - [Musa (Moses)](./musa.md) - Receiver of the Torah and leader of the Israelites
 - [Isa (Jesus)](./isa.md) - Islamic perspective on Jesus as a prophet, not divine
-- [Sealed Prophethood](./khatam_an_nabiyyin.md) - The concept of Muhammad as the final prophet
+- [Sealed Prophethood](./khatam_an_nabiyyin.md) - The concept of Muhammad (SM) as the final prophet
 
 ## Scriptures and Revelation
 
