@@ -1,6 +1,7 @@
-# World Religions Study Notes
+# World Religions WIKI (Work in process-WIP)
 
-This repository contains interlinked markdown study notes on "World Religions Explained"
+This repository contains interlinked markdown version of World Religions WIKI
+
 ## Structure
 
 The notes are organized as follows:
