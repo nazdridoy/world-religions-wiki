@@ -20,10 +20,14 @@ This section explores the rituals, devotions, and customs that characterize Isla
 - [Adhan (Call to Prayer)](./adhan.md) - The announcement for congregational prayers
 - [Qiblah (Direction)](./qiblah.md) - Facing toward the Kaaba in Mecca
 - [Rak'ah (Prayer Units)](./rakah.md) - The sequences of standing, bowing, and prostrating
+- [Qiyam](./qiyam.md) - The standing position in prayer
+- [Sujud](./sujud.md) - The prostration during prayer
+- [Khushu](./khushu.md) - Concentration and humility in prayer
 - [Congregational Prayer](./congregational_prayer.md) - Praying together at the mosque
 - [Friday Prayer (Jumu'ah)](./jumuah.md) - The special congregational prayer on Fridays
 - [Sunnah Prayers](./sunnah_prayers.md) - Optional prayers recommended by the Prophet
 - [Taraweeh](./taraweeh.md) - Special night prayers during Ramadan
+- [Witr](./witr.md) - An odd-numbered prayer usually performed after Isha or Taraweeh
 - [Eid Prayers](./eid_prayers.md) - Celebration prayers for the two major Islamic festivals
 
 ## Ramadan and Fasting
@@ -41,12 +45,15 @@ This section explores the rituals, devotions, and customs that characterize Isla
 
 - [Preparation for Hajj](./hajj_preparation.md) - Spiritual and practical preparations
 - [Ihram](./ihram.md) - The sacred state and garments for pilgrimage
+- [Talbiyah](./talbiyah.md) - The pilgrimage prayer recited during Hajj
 - [Tawaf](./tawaf.md) - Circumambulation of the Kaaba
 - [Sa'i](./sai.md) - Walking between the hills of Safa and Marwa
 - [Standing at Arafat](./arafat.md) - The climactic day of Hajj
+- [Muzdalifah](./muzdalifah.md) - The place where pilgrims spend the night after Arafat
 - [Stoning of the Pillars](./jamarat.md) - Symbolic stoning of Satan
 - [Animal Sacrifice](./qurbani.md) - Commemorating Ibrahim's willingness to sacrifice
 - [Eid al-Adha](./eid_al_adha.md) - The Feast of Sacrifice during Hajj
+- [Zamzam](./zamzam.md) - The sacred well in Mecca
 - [Umrah](./umrah.md) - The "lesser pilgrimage" that can be performed anytime
 - [Ziyarat](./ziyarat.md) - Visits to other sacred sites and tombs
 
@@ -59,6 +66,7 @@ This section explores the rituals, devotions, and customs that characterize Isla
 - [Mosque Etiquette](./mosque_etiquette.md) - Proper conduct in sacred spaces
 - [Minbar](./minbar.md) - The pulpit for sermons
 - [Mihrab](./mihrab.md) - The prayer niche indicating qiblah direction
+- [Minaret](./minaret.md) - The tower from which the call to prayer is made
 - [Dome and Minaret](./dome_minaret.md) - Symbolic architectural elements
 
 ## Lifecycle Practices
@@ -66,6 +74,7 @@ This section explores the rituals, devotions, and customs that characterize Isla
 - [Birth Rituals](./birth_rituals.md) - Welcoming a new Muslim child
 - [Aqiqah](./aqiqah.md) - The celebration for a newborn
 - [Khitan (Circumcision)](./khitan.md) - Male circumcision tradition
+- [Islamic Parenting](./islamic_parenting.md) - Raising children according to Islamic principles
 - [Marriage (Nikah)](./nikah.md) - Islamic marriage ceremony and customs
 - [Mahr](./mahr.md) - The obligatory gift from husband to wife
 - [Walimah](./walimah.md) - The wedding feast
@@ -87,6 +96,8 @@ This section explores the rituals, devotions, and customs that characterize Isla
 - [Dhikr](./dhikr.md) - Remembrance of God through repeated phrases
 - [Du'a](./dua.md) - Supplicatory prayers
 - [Quranic Recitation](./quran_recitation.md) - Proper methods and benefits
+- [Quran Engagement](./quran_engagement.md) - Methods of interacting with Quranic text
+- [Quranic Studies](./quranic_studies.md) - Systematic study of the Quran
 - [Tahajjud](./tahajjud.md) - Voluntary night prayer
 - [Istighfar](./istighfar.md) - Seeking forgiveness
 - [Tawbah](./tawbah.md) - Repentance process
@@ -108,6 +119,7 @@ This section explores the rituals, devotions, and customs that characterize Isla
 - [Gender Interaction](./gender_interaction.md) - Guidelines for male-female relations
 - [Business Ethics](./business_ethics.md) - Islamic principles in commerce
 - [Environmental Ethics](./environmental_ethics.md) - Islamic teachings on nature
+- [Water Conservation](./water_conservation.md) - Islamic principles of water usage and preservation
 - [Animal Rights](./animal_rights.md) - Islamic guidance on treatment of animals
 - [Speech Ethics](./speech_ethics.md) - Islamic teachings on truthfulness and restraint
 
@@ -126,6 +138,7 @@ This section explores the rituals, devotions, and customs that characterize Isla
 - [Taqwa](./taqwa.md) - God-consciousness and piety
 - [Ihsan](./ihsan.md) - Excellence in faith and practice
 - [Tazkiyah](./tazkiyah.md) - Purification of the soul
+- [Tafakkur](./tafakkur.md) - Islamic contemplation and reflection
 - [Sufism Practices](./sufism_practices.md) - Mystical disciplines
 - [Muraqaba](./muraqaba.md) - Islamic meditation
 - [Muhasaba](./muhasaba.md) - Self-accounting and reflection
