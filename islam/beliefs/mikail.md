@@ -70,27 +70,27 @@ According to Islamic tradition, Mika'il possesses several distinctive attributes
 
 ### Physical Description
 
-* Created from celestial light (nur)
-* Described in some traditions as possessing magnificent wings
-* Has a beautiful and awe-inspiring appearance
-* Size and form beyond human comprehension
-* Capable of assuming different forms when necessary
+- Created from celestial light (nur)
+- Described in some traditions as possessing magnificent wings
+- Has a beautiful and awe-inspiring appearance
+- Size and form beyond human comprehension
+- Capable of assuming different forms when necessary
 
 Some traditions elaborate on his physical appearance with greater detail:
 
-* Possesses multiple pairs of wings (some traditions suggest thousands)
-* Each wing adorned with countless jewel-like colors reflecting divine light
-* Body composed entirely of celestial light with varying intensities
-* Eyes that contain galaxies of stars (metaphorical description)
-* When manifesting in the earthly realm, capable of appearing as precipitation or other natural elements
+- Possesses multiple pairs of wings (some traditions suggest thousands)
+- Each wing adorned with countless jewel-like colors reflecting divine light
+- Body composed entirely of celestial light with varying intensities
+- Eyes that contain galaxies of stars (metaphorical description)
+- When manifesting in the earthly realm, capable of appearing as precipitation or other natural elements
 
 ### Status and Rank
 
-* One of the four archangels closest to Allah
-* Present in the divine presence, in proximity to Allah's throne
-* Mentioned alongside Jibril as deserving particular reverence
-* Subject of prayers and supplications by believers
-* Counted among the angels who prostrated to Adam at creation
+- One of the four archangels closest to Allah
+- Present in the divine presence, in proximity to Allah's throne
+- Mentioned alongside Jibril as deserving particular reverence
+- Subject of prayers and supplications by believers
+- Counted among the angels who prostrated to Adam at creation
 
 Imam Al-Qurtubi mentions in his exegesis that Mika'il holds special rank due to the essential nature of his duties. While Jibril's revelatory function was completed with the final revelation to Prophet Muhammad ﷺ, Mika'il's role in sustaining creation through rain and provision continues until the end of time, making his service perpetually active.
 
@@ -98,30 +98,30 @@ According to Ibn Abbas (may Allah be pleased with him), Mika'il stands at a posi
 
 ### Character and Nature
 
-* Complete obedience to divine commands
-* Freedom from sin, desire, or rebellion
-* Neither eats nor drinks
-* Does not experience fatigue
-* Possesses no free will to disobey Allah
-* Exists solely to fulfill divine mandate
+- Complete obedience to divine commands
+- Freedom from sin, desire, or rebellion
+- Neither eats nor drinks
+- Does not experience fatigue
+- Possesses no free will to disobey Allah
+- Exists solely to fulfill divine mandate
 
 Additionally, traditions describe Mika'il as having these character qualities:
 
-* Compassionate toward believers, as he recognizes how their sustenance depends on his faithful execution of duties
-* Precise in measuring and distributing provisions according to divine decree
-* Understanding the interconnectedness of all natural systems
-* Extraordinary patience in maintaining natural cycles over millennia
-* Deep sadness when humans waste or abuse the provisions he delivers
+- Compassionate toward believers, as he recognizes how their sustenance depends on his faithful execution of duties
+- Precise in measuring and distributing provisions according to divine decree
+- Understanding the interconnectedness of all natural systems
+- Extraordinary patience in maintaining natural cycles over millennia
+- Deep sadness when humans waste or abuse the provisions he delivers
 
 ## Roles and Responsibilities
 
 ### Administrator of Nature
 
-* Controls and distributes rainfall according to divine decree
-* Supervises plant growth and agricultural fertility
-* Determines where and when rain will fall
-* Commands winds and weather patterns
-* Ensures the provisioning of all creatures
+- Controls and distributes rainfall according to divine decree
+- Supervises plant growth and agricultural fertility
+- Determines where and when rain will fall
+- Commands winds and weather patterns
+- Ensures the provisioning of all creatures
 
 Ibn Kathir elaborated that Mika'il does not act independently but follows Allah's commands with perfect precision. Each droplet of rain is released only as specifically decreed, with exact measurements for each location on earth. Nothing in his administration is random or accidental; rather, all follows divine wisdom.
 
@@ -135,36 +135,36 @@ Al-Suyuti reported that Mika'il commands massive ranks of angels who assist with
 ### Specific Natural Phenomena Under Mika'il's Administration
 
 1. **Rainfall Cycle**
-   * Evaporation from oceans and water bodies
-   * Cloud formation and development
-   * Precipitation in various forms (rain, snow, hail)
-   * Distribution according to divine wisdom
+   - Evaporation from oceans and water bodies
+   - Cloud formation and development
+   - Precipitation in various forms (rain, snow, hail)
+   - Distribution according to divine wisdom
 
 2. **Agricultural Development**
-   * Germination of seeds
-   * Growth of crops
-   * Ripening of fruits
-   * Cycling of seasons
+   - Germination of seeds
+   - Growth of crops
+   - Ripening of fruits
+   - Cycling of seasons
 
 3. **Ocean and Water Systems**
-   * Tides and currents
-   * Underwater ecosystems
-   * Distribution of marine resources
-   * Purification of water
+   - Tides and currents
+   - Underwater ecosystems
+   - Distribution of marine resources
+   - Purification of water
 
 4. **Wind Patterns**
-   * Seasonal shifts in weather
-   * Distribution of pollen
-   * Seed dispersal
-   * Prevention of stagnant air
+   - Seasonal shifts in weather
+   - Distribution of pollen
+   - Seed dispersal
+   - Prevention of stagnant air
 
 ### Cosmological Function
 
-* Maintains natural balance in creation
-* Oversees seasonal changes
-* Mediates between divine will and natural phenomena
-* Works in concert with numerous subordinate angels
-* Participates in the cosmic ordering of creation
+- Maintains natural balance in creation
+- Oversees seasonal changes
+- Mediates between divine will and natural phenomena
+- Works in concert with numerous subordinate angels
+- Participates in the cosmic ordering of creation
 
 In the words of Ibn Arabi, the famous Sufi scholar, Mika'il's cosmic function extends beyond Earth to include the movement of celestial bodies that influence weather patterns. The moon's pull on tides, the sun's role in evaporation, and the stars' positions that ancient farmers used for agricultural timing all fall under his broader administrative domain.
 
@@ -191,11 +191,11 @@ According to some narrations, Mika'il keeps special records of those who:
 
 ### Eschatological Role
 
-* Will be present on Judgment Day
-* Stands among the angels surrounding Allah's throne
-* Some traditions suggest a role in the weighing of deeds
-* Continues administrative functions in the afterlife
-* Assists in the transformation of creation at world's end
+- Will be present on Judgment Day
+- Stands among the angels surrounding Allah's throne
+- Some traditions suggest a role in the weighing of deeds
+- Continues administrative functions in the afterlife
+- Assists in the transformation of creation at world's end
 
 More specifically about his end-times functions:
 
@@ -220,50 +220,50 @@ Unlike Jibril, who frequently delivered messages directly to prophets, Mika'il's
 
 ### With Adam (Adam)
 
-* Instructed Adam about agriculture after his descent to Earth
-* Taught humanity, through Adam, how to recognize signs of coming rainfall
-* Showed Adam how to plant seeds and cultivate crops
-* Delivered the first rainfall to Earth after Adam's creation
+- Instructed Adam about agriculture after his descent to Earth
+- Taught humanity, through Adam, how to recognize signs of coming rainfall
+- Showed Adam how to plant seeds and cultivate crops
+- Delivered the first rainfall to Earth after Adam's creation
 
 ### With Nuh (Noah)
 
-* Directed the great flood waters during the time of Nuh
-* According to some traditions, taught Nuh how to build the Ark
-* Controlled the timing and intensity of the flood waters
-* Stopped the rainfall when divine judgment was complete
+- Directed the great flood waters during the time of Nuh
+- According to some traditions, taught Nuh how to build the Ark
+- Controlled the timing and intensity of the flood waters
+- Stopped the rainfall when divine judgment was complete
 
 ### With Ibrahim (Abraham)
 
-* Some traditions suggest Mika'il was present alongside Jibril when visiting Ibrahim
-* When Ibrahim was thrown into the fire, some accounts suggest Mika'il was assigned to control the element of water that could have extinguished the fire, but Allah directly commanded the fire to be cool and safe
-* Later blessed the land around Ibrahim's settlement with fertile soil and abundant rainfall
-* According to some narratives, Mika'il assisted Jibril in creating the well of Zamzam, with Jibril striking the ground and Mika'il ensuring its continued flow
+- Some traditions suggest Mika'il was present alongside Jibril when visiting Ibrahim
+- When Ibrahim was thrown into the fire, some accounts suggest Mika'il was assigned to control the element of water that could have extinguished the fire, but Allah directly commanded the fire to be cool and safe
+- Later blessed the land around Ibrahim's settlement with fertile soil and abundant rainfall
+- According to some narratives, Mika'il assisted Jibril in creating the well of Zamzam, with Jibril striking the ground and Mika'il ensuring its continued flow
 
 ### With Yusuf (Joseph)
 
-* During the seven years of abundant harvest prophesied by Yusuf, Mika'il oversaw the bountiful production
-* Similarly, during the seven lean years, Mika'il withheld rain according to divine decree
-* Helped preserve Egypt's limited resources during the famine through subtle guidance of weather patterns
+- During the seven years of abundant harvest prophesied by Yusuf, Mika'il oversaw the bountiful production
+- Similarly, during the seven lean years, Mika'il withheld rain according to divine decree
+- Helped preserve Egypt's limited resources during the famine through subtle guidance of weather patterns
 
 ### With Musa (Moses)
 
-* Involved in delivering the plagues upon Egypt, particularly those involving natural elements like hail
-* Controlled the parting and returning of the Red Sea waters
-* Delivered manna and quails as sustenance for the Israelites in the wilderness
-* Provided water from rocks when struck by Musa's staff
+- Involved in delivering the plagues upon Egypt, particularly those involving natural elements like hail
+- Controlled the parting and returning of the Red Sea waters
+- Delivered manna and quails as sustenance for the Israelites in the wilderness
+- Provided water from rocks when struck by Musa's staff
 
 ### With Sulaiman (Solomon)
 
-* Assisted in Sulaiman's control over natural elements
-* Helped regulate the winds that Sulaiman commanded
-* Ensured abundant rainfall over Sulaiman's kingdom, contributing to its prosperity
+- Assisted in Sulaiman's control over natural elements
+- Helped regulate the winds that Sulaiman commanded
+- Ensured abundant rainfall over Sulaiman's kingdom, contributing to its prosperity
 
 ### With Prophet Muhammad ﷺ
 
-* According to authentic narrations, Mika'il was often positioned at the Prophet's left side during prayer, while Jibril stood at his right
-* During the Battle of Badr, Mika'il was present among the angelic forces supporting the Muslims
-* Brought rainfall to assist the Muslim army at critical moments in various battles
-* When the Muslims performed the prayer for rain (Salat al-Istisqa), Mika'il would respond to the Prophet's supplications
+- According to authentic narrations, Mika'il was often positioned at the Prophet's left side during prayer, while Jibril stood at his right
+- During the Battle of Badr, Mika'il was present among the angelic forces supporting the Muslims
+- Brought rainfall to assist the Muslim army at critical moments in various battles
+- When the Muslims performed the prayer for rain (Salat al-Istisqa), Mika'il would respond to the Prophet's supplications
 
 A particularly significant interaction occurred during the Night Journey (Isra and Mi'raj), when the Prophet Muhammad ﷺ saw both Jibril and Mika'il. According to narrations, when the Prophet was offered vessels of milk, water, and wine, his choice of milk was approved by Mika'il, who said, "You have chosen the natural state (fitrah)," highlighting Mika'il's connection to natural sustenance and the original nature of creation.
 
@@ -273,29 +273,29 @@ A particularly significant interaction occurred during the Night Journey (Isra a
 
 Several hadith (recorded sayings and actions of Prophet Muhammad) mention Mika'il:
 
-* In Sahih Muslim, the Prophet is reported to have said during night prayer: "O Allah, Lord of Jibril, Mika'il, and Israfil, Creator of the heavens and the earth..."
+- In Sahih Muslim, the Prophet is reported to have said during night prayer: "O Allah, Lord of Jibril, Mika'il, and Israfil, Creator of the heavens and the earth..."
 
-* Another tradition states that Jibril stands at the Prophet's right side and Mika'il at his left during prayer
+- Another tradition states that Jibril stands at the Prophet's right side and Mika'il at his left during prayer
 
-* Some narrations suggest that while Jibril brought revelation and guidance, Mika'il brought fertility and provision
+- Some narrations suggest that while Jibril brought revelation and guidance, Mika'il brought fertility and provision
 
 Additional authentic hadith references include:
 
-* "The Prophet ﷺ used to say when startled: 'There is no god but Allah,' and when he stood for prayer, he would say: 'Glory be to You, O Allah, and praise; blessed is Your name, exalted is Your majesty, and there is no god other than You. I seek refuge in Allah, the All-Hearing, the All-Knowing, from the accursed Satan: from his madness, his arrogance, and his poetry.' Then he would say: 'O Allah, Lord of Jibril, Mika'il, and Israfil.'" (Abu Dawud)
+- "The Prophet ﷺ used to say when startled: 'There is no god but Allah,' and when he stood for prayer, he would say: 'Glory be to You, O Allah, and praise; blessed is Your name, exalted is Your majesty, and there is no god other than You. I seek refuge in Allah, the All-Hearing, the All-Knowing, from the accursed Satan: from his madness, his arrogance, and his poetry.' Then he would say: 'O Allah, Lord of Jibril, Mika'il, and Israfil.'" (Abu Dawud)
 
-* When asked about the creation of angels, the Prophet ﷺ said: "The angels were created from light, just as the jinn were created from smokeless fire and humans were created from what has been described to you." (Sahih Muslim) This applies to all angels including Mika'il.
+- When asked about the creation of angels, the Prophet ﷺ said: "The angels were created from light, just as the jinn were created from smokeless fire and humans were created from what has been described to you." (Sahih Muslim) This applies to all angels including Mika'il.
 
-* The Prophet ﷺ said: "When Allah decrees a matter in heaven, the angels beat their wings in submission to His statement, like a chain on a smooth stone. When fear is banished from their hearts, they say, 'What has your Lord said?' They say, 'The truth, and He is the Most High, the Most Great.' Then Jibril and Mika'il are among the first to raise their heads, and Allah tells them what He wills of His decree." (Al-Bukhari)
+- The Prophet ﷺ said: "When Allah decrees a matter in heaven, the angels beat their wings in submission to His statement, like a chain on a smooth stone. When fear is banished from their hearts, they say, 'What has your Lord said?' They say, 'The truth, and He is the Most High, the Most Great.' Then Jibril and Mika'il are among the first to raise their heads, and Allah tells them what He wills of His decree." (Al-Bukhari)
 
 ### Interpretive Traditions
 
 Islamic scholars developed various understandings of Mika'il's nature and function:
 
-* Al-Qurtubi described him as the angel of mercy, bringing beneficial rain and sustenance
-* Ibn Kathir noted his special relationship to the believing community
-* Some Sufi interpretations saw him as representing divine providence and sustenance
-* Theological traditions emphasized his perfect submission as a model for believers
-* Folk traditions sometimes invoked Mika'il for relief during drought or famine
+- Al-Qurtubi described him as the angel of mercy, bringing beneficial rain and sustenance
+- Ibn Kathir noted his special relationship to the believing community
+- Some Sufi interpretations saw him as representing divine providence and sustenance
+- Theological traditions emphasized his perfect submission as a model for believers
+- Folk traditions sometimes invoked Mika'il for relief during drought or famine
 
 Al-Ghazali, the renowned Islamic scholar, elaborated on Mika'il's symbolic significance in his "Ihya Ulum al-Din" (Revival of Religious Sciences), viewing him as representing the aspect of divine mercy that sustains physical existence, while Jibril represents the mercy that sustains spiritual existence.
 
@@ -334,39 +334,39 @@ Throughout Islamic history, certain noteworthy weather events have been traditio
 
 Mika'il's role in Islam has parallels with his depiction in other Abrahamic faiths:
 
-* In Judaism, Michael is considered Israel's guardian angel and defender
-* In Christianity, Michael appears as a warrior angel and leader of heavenly hosts
-* Islamic tradition emphasizes Mika'il's provisional role more than his martial aspects
-* All three traditions recognize him as a principal angel close to God
-* His connection to natural phenomena is most developed in Islamic tradition
+- In Judaism, Michael is considered Israel's guardian angel and defender
+- In Christianity, Michael appears as a warrior angel and leader of heavenly hosts
+- Islamic tradition emphasizes Mika'il's provisional role more than his martial aspects
+- All three traditions recognize him as a principal angel close to God
+- His connection to natural phenomena is most developed in Islamic tradition
 
 More detailed comparisons reveal:
 
 1. **In Judaism**:
-   * Michael (Hebrew: מיכאל, meaning "Who is like God?") is one of the chief princes and guardian of Israel
-   * Described as a warrior figure who battles spiritual forces opposing the Children of Israel
-   * Appears in the Book of Daniel as a protector
-   * Later Jewish mystical traditions associate him with mercy and the element of water
+   - Michael (Hebrew: מיכאל, meaning "Who is like God?") is one of the chief princes and guardian of Israel
+   - Described as a warrior figure who battles spiritual forces opposing the Children of Israel
+   - Appears in the Book of Daniel as a protector
+   - Later Jewish mystical traditions associate him with mercy and the element of water
 
 2. **In Christianity**:
-   * Depicted as the leader of God's armies against Satan's forces in the Book of Revelation
-   * Often portrayed with a sword and scales of justice
-   * Designated as a saint in Catholic, Orthodox, and Anglican traditions
-   * Sometimes associated with healing waters and springs
+   - Depicted as the leader of God's armies against Satan's forces in the Book of Revelation
+   - Often portrayed with a sword and scales of justice
+   - Designated as a saint in Catholic, Orthodox, and Anglican traditions
+   - Sometimes associated with healing waters and springs
 
 3. **Unique Islamic Emphasis**:
-   * Islam uniquely emphasizes Mika'il's role in natural provision and rainfall
-   * Presents a more administrative rather than warrior characterization
-   * Focuses on his continued active role in daily sustenance rather than primarily eschatological functions
-   * Associates him directly with agricultural fertility and food security
+   - Islam uniquely emphasizes Mika'il's role in natural provision and rainfall
+   - Presents a more administrative rather than warrior characterization
+   - Focuses on his continued active role in daily sustenance rather than primarily eschatological functions
+   - Associates him directly with agricultural fertility and food security
 
 ### Cultural Representations
 
-* Persian miniature paintings occasionally depicted angels (though without claiming accuracy)
-* Turkish and Indian Muslim artistic traditions sometimes symbolically represented angels
-* Contemporary Muslim popular culture includes stylized references to major angels
-* Modern Muslim children's literature often includes descriptions of Mika'il's duties
-* Religious education materials typically describe his functions without visual depiction
+- Persian miniature paintings occasionally depicted angels (though without claiming accuracy)
+- Turkish and Indian Muslim artistic traditions sometimes symbolically represented angels
+- Contemporary Muslim popular culture includes stylized references to major angels
+- Modern Muslim children's literature often includes descriptions of Mika'il's duties
+- Religious education materials typically describe his functions without visual depiction
 
 In particular regions, cultural representations have taken distinctive forms:
 
@@ -384,11 +384,11 @@ In particular regions, cultural representations have taken distinctive forms:
 
 Mika'il's role illustrates several theological concepts:
 
-* Allah's continual involvement in sustaining creation
-* The structured hierarchy of the unseen world
-* Divine mercy manifested through natural provision
-* The use of angelic intermediaries in cosmic governance
-* The perfect implementation of divine will through obedient servants
+- Allah's continual involvement in sustaining creation
+- The structured hierarchy of the unseen world
+- Divine mercy manifested through natural provision
+- The use of angelic intermediaries in cosmic governance
+- The perfect implementation of divine will through obedient servants
 
 Imam Al-Ghazali elaborated on how Mika'il demonstrates the concept of "Rizq" (divine provision) in his work "The Revival of Religious Sciences." He explained that all sustenance comes ultimately from Allah, with Mika'il serving as the administrator rather than the source. This distinction is crucial for maintaining Islamic monotheism (tawhid) while acknowledging angelic functions.
 
@@ -398,11 +398,11 @@ According to Ibn Taymiyyah, Mika'il's role shows that Allah governs the universe
 
 Belief in Mika'il reinforces specific Islamic values:
 
-* Gratitude for natural provisions as divine gifts
-* Recognition of natural phenomena as divinely orchestrated
-* Accountability for how environmental resources are used
-* Awareness of unseen forces working in the visible world
-* Appreciation for cosmic harmony and balance
+- Gratitude for natural provisions as divine gifts
+- Recognition of natural phenomena as divinely orchestrated
+- Accountability for how environmental resources are used
+- Awareness of unseen forces working in the visible world
+- Appreciation for cosmic harmony and balance
 
 Additionally, recognizing Mika'il's role encourages:
 
@@ -418,11 +418,11 @@ Additionally, recognizing Mika'il's role encourages:
 
 ## Contemporary Relevance
 
-* Provides theological framework for Islamic environmental ethics
-* Offers spiritual dimension to understanding natural disasters and climate
-* Symbolizes divine care for creation's sustenance and nourishment
-* Reminds believers that rainfall and fertility are manifestations of divine mercy
-* Connects daily sustenance with theological understanding of divine providence
+- Provides theological framework for Islamic environmental ethics
+- Offers spiritual dimension to understanding natural disasters and climate
+- Symbolizes divine care for creation's sustenance and nourishment
+- Reminds believers that rainfall and fertility are manifestations of divine mercy
+- Connects daily sustenance with theological understanding of divine providence
 
 ### Modern Applications of Mika'il's Theological Significance
 
@@ -501,11 +501,11 @@ The concept of Mika'il offers several practical spiritual lessons for believers:
 
 ## Related Concepts
 
-* [Angels](./angels.md) - General Islamic beliefs about angelic beings
-* [Jibril](./jibril.md) - The angel of revelation
-* [Israfil](./israfil.md) - The angel who will blow the trumpet on Judgment Day
-* [Azrael](./azrael.md) - The angel of death
-* [Nature of Angels](./nature_of_angels.md) - Islamic understanding of angelic beings
-* [Divine Decree](./qadar.md) - The concept of Allah's predetermined will
+- [Angels](./angels.md) - General Islamic beliefs about angelic beings
+- [Jibril](./jibril.md) - The angel of revelation
+- [Israfil](./israfil.md) - The angel who will blow the trumpet on Judgment Day
+- [Azrael](./azrael.md) - The angel of death
+- [Nature of Angels](./nature_of_angels.md) - Islamic understanding of angelic beings
+- [Divine Decree](./qadar.md) - The concept of Allah's predetermined will
 
 ## Back to [Islamic Beliefs](./README.md)
